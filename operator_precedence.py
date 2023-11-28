@@ -1,0 +1,1 @@
+x = 10 + 3 * 2 #same as in math, multiplication first, then addition
